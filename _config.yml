@@ -6,8 +6,8 @@ email: laizhonghua15@gmail.com
 description: "Every failure is leading towards success."
 keyword: "Edwiin lai, 小华哥的博客"
 url: "http://www.xiaohuage.cf/"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "http://xiaohuage.cf" # you code repository
+baseurl: "http://www.xiaohuage.cf/"      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "http://www.xiaohuage.cf/" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
