@@ -4,10 +4,10 @@ SEOTitle: 小华哥的博客 | By Blog
 header-img: img/post-bg-desk.jpg
 email: laizhonghua15@gmail.com
 description: "Every failure is leading towards success."
-keyword: "Edwiin lai, 小华哥的博客"
-url: "http://www.xiaohuage.cf/"          # your host, for absolute URL
-baseurl: "http://www.xiaohuage.cf/"      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "http://www.xiaohuage.cf/" # you code repository
+keyword: "By, By Blog, 小华哥的博客, Andriod, OnePLus 3"
+url: "http://Edwiin.Blog.github.io"          # your host, for absolute URL
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
